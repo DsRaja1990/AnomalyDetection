@@ -5,7 +5,7 @@ An enterprise-grade AI-powered anomaly detection system for Azure Applications u
 ## 🚀 Quick Start
 
 1. **Configuration**: Copy `local.settings.json.template` to `local.settings.json` and configure:
-   - `AI_FOUNDATION_ENDPOINT`: Your Azure AI endpoint (e.g., `https://assurantpoc-resource.services.ai.azure.com/models`)
+   - `AI_FOUNDATION_ENDPOINT`: Your Azure AI endpoint (e.g., `https://poc-resource.services.ai.azure.com/models`)
    - `AI_FOUNDATION_KEY`: Your Azure AI API key
    - `AI_FOUNDATION_MODEL`: Set to `Phi-4`
    - `APPINSIGHTS_RESOURCE_ID`: Application Insights resource to monitor
